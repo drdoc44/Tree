@@ -1,0 +1,181 @@
+outcome,measure,study-name,value
+nssi,sasii,andreasson-2016,1
+suicide attempt,sasii,andreasson-2016,1
+bpd,zan-bpd,andreasson-2016,1
+depression,hdrs-17,andreasson-2016,1
+suicide ideation,beck-suicide-ideation-scale,andreasson-2016,1
+hopelessness,beck-hopelessness-scale,andreasson-2016,1
+self-esteem,rosenberg-self-esteem-scale,andreasson-2016,1
+anxiety,cidi,carter-2010,2
+anxiety,cidi,carter-2010,2
+bipolar,cidi,carter-2010,2
+alcohol problems,cidi,carter-2010,2
+substance problems,cidi,carter-2010,2
+personality disorder,ipdeq,carter-2010,2
+disability,bdq,carter-2010,2
+parasuicide,lifetime-parasuicide-count-2,carter-2010,2
+parasuicide,phi-2,carter-2010,2
+quality of life,whoqol-bref,carter-2010,2
+suicidality,oas-m,clarkin-2007,3
+aggression,anger-irritability-and-assault-questionnaire,clarkin-2007,3
+impulsivity,barratt-impulsiveness-scale-2,clarkin-2007,3
+anxiety,brief-symptom-inventory,clarkin-2007,3
+depression,bdi-2,clarkin-2007,3
+social adjustment,gaf,clarkin-2007,3
+social adjustment,social-adjustment-scale,clarkin-2007,3
+bpd,bsl-23,lyng-2015,4
+somatisation,scl-90-r,lyng-2015,4
+obsessive compulsions,scl-90-r,lyng-2015,4
+interpersonal sensitivity,scl-90-r,lyng-2015,4
+depression,scl-90-r,lyng-2015,4
+anxiety,scl-90-r,lyng-2015,4
+hostility,scl-90-r,lyng-2015,4
+phobic anxiety,scl-90-r,lyng-2015,4
+paranoid ideation,scl-90-r,lyng-2015,4
+psychoticism,scl-90-r,lyng-2015,4
+dbt skill use,dbt-wccl,lyng-2015,4
+dropout,,lyng-2015,5
+nssi,sasii,barnicot-2018,5
+bpd,borderline-evaluation-of-severity-over-time,barnicot-2018,5
+emotion dysrgulation,ders,barnicot-2018,5
+dissociation,dissociative-experiences-scale,barnicot-2018,5
+interpersonal relationships,sides-sr,barnicot-2018,5
+dropout,,barnicot-2018,5
+crisis service use,,barnicot-2018,5
+suicide attempt,c-ssrs,goodman-2016,6
+suicide ideation,beck-suicide-ideation-scale,goodman-2016,6
+depression,bdi-2,goodman-2016,6
+hopelessness,beck-hopelessness-scale,goodman-2016,6
+anxiety,beck-anxiety-inventory,goodman-2016,6
+parasuicide,parasuicide-history-interview,koons-2001,7
+suicide ideation,beck-scale-for-suicide-ideation,koons-2001,7
+hopelessness,beck-hopelessness-scale,koons-2001,7
+depression,bdi,koons-2001,7
+depression,ham-d,koons-2001,7
+anxiety,ham-a,koons-2001,7
+anger,spielberger-anger-expression-scale,koons-2001,7
+dissociation,dissociative-experiences-scale,koons-2001,7
+health care utilization,,koons-2001,7
+treatment,treatment-history-interview,koons-2001,8
+treatment,therapist-interview,koons-2001,8
+parasuicide,parasuicide-history-interview,linehan-1991,8
+suicide attempt,parasuicide-history-interview,linehan-1991,8
+treatment,treatment-history-interview,linehan-1991,8
+suicide ideation,scale-for-suicide-ideators,linehan-1991,8
+depression,bdi,linehan-1991,8
+hopelessness,beck-hopelessness-scale,linehan-1991,8
+reasons for living,reasons-for-living-inventory,linehan-1991,8
+parasuicide,parasuicide-history-interview,linehan-1993,9
+treatment,treatment-history-interview,linehan-1993,9
+anger,state-trait-anger-scale,linehan-1993,9
+social adjustment,social-adjustment-scale-interview,linehan-1993,9
+global adjustment,longitudinal-interview-follow-up-evaluation,linehan-1993,9
+social adjustment,social-adjustment-scale-self-report,linehan-1993,9
+anxious rumination,social-adjustment-scale-self-report,linehan-1993,9
+employment performence,social-adjustment-scale-self-report,linehan-1993,9
+treatment,treatment-history-interview,linehan-1994,10
+anger,state-trait-anger-scale,linehan-1994,10
+life satisfaction,social-adjustment-scale-longitudinal-interview-follow-up-evaluation,linehan-1994,10
+social adjustment,social-adjustment-scale-longitudinal-interview-follow-up-evaluation,linehan-1994,10
+global adjustment,social-adjustment-scale-longitudinal-interview-follow-up-evaluation,linehan-1994,10
+global social adjustment,social-adjustment-scale-self-report,linehan-1994,10
+drug abuse,structured-clinical-interviews,linehan-1999,11
+parasuicide,parasuicide-history-interview,linehan-1999,11
+global social adjustment,social-history-interview,linehan-1999,11
+global adjustment,social-history-interview,linehan-1999,11
+anger,state-trait-anger-expression-inventory,linehan-1999,11
+parasuicide,parasuicide-history-interview,linehan-2002,12
+global adjustment,social-history-interview,linehan-2002,12
+global social adjustment,social-history-interview,linehan-2002,12
+global functioning,gaf,linehan-2002,12
+general psychopathology,brief-symptom-inventory,linehan-2002,12
+suicide attempt,sasii,linehan-2015,13
+nssi,sasii,linehan-2015,13
+suicide ideation,suicidal-behaviors-questionnaire,linehan-2015,13
+reasons for living,reasons-for-living-inventory,linehan-2015,13
+treatment,treatment-history-interview,linehan-2015,13
+psychotropic medications,treatment-history-interview,linehan-2015,13
+depression,ham-d,linehan-2015,13
+anxiety,ham-a,linehan-2015,13
+suicide attempt,sasii,linehan-2006,14
+nssi,sasii,linehan-2006,14
+suicide ideation,suicidal-behaviors-questionnaire,linehan-2006,14
+reasons for living,reasons-for-living-inventory,linehan-2006,14
+treatment,treatment-history-interview,linehan-2006,14
+depression,ham-d,linehan-2006,14
+irritability/anger,oas-m,linehan-2008,15
+aggression,oas-m,linehan-2008,15
+suicidality,oas-m,linehan-2008,15
+nssi,oas-m,linehan-2008,15
+depression,ham-d,linehan-2008,15
+somatic symptom,somatic-symptom-scale,linehan-2008,15
+bpd,bsl-23,lyng-2020,16
+general psychopathology,scl-90-r,lyng-2020,16
+hopelessness,beck-hopelessness-scale,lyng-2020,16
+suicide ideation,beck-scale-for-suicide-ideation,lyng-2020,16
+dropout,,lyng-2020,16
+suicide attempt,sasii,mcmain-2009,17
+nssi,sasii,mcmain-2009,17
+bpd,zan-bpd,mcmain-2009,17
+general psychopathology,scl-90-r,mcmain-2009,17
+anger,state-trait-anger-expression-inventory,mcmain-2009,17
+depression,bdi-2,mcmain-2009,17
+interpersonal functioning,inventory-of-interpersonal-problems,mcmain-2009,17
+quality of life,eq-5d,mcmain-2009,17
+treatment,treatment-history-interview,mcmain-2009,17
+termination,reasons-for-early-termination-from-treatment-questionnaire,mcmain-2009,17
+suicide attempt,sasii,mcmain-2012,18
+nssi,sasii,mcmain-2012,18
+treatment,treatment-history-interview,mcmain-2012,18
+bpd,zan-bpd,mcmain-2012,18
+general psychopathology,scl-90-r,mcmain-2012,18
+anger,state-trait-anger-expression-inventory,mcmain-2012,18
+depression,bdi-2,mcmain-2012,18
+interpersonal functioning,inventory-of-interpersonal-problems,mcmain-2012,18
+remission,international-personality-disorder-examination,mcmain-2012,18
+quality of life,eq-5d,mcmain-2012,18
+overall disability,eq-5d,mcmain-2012,18
+occupational functioning,eq-5d,mcmain-2012,18
+receipt of psychiatric disability benefits,eq-5d,mcmain-2012,18
+nssi,sasii,mcmain-2018,19
+suicide attempt,sasii,mcmain-2018,19
+nssi,l-sasi,mcmain-2018,19
+treatment,treatment-history-interview,mcmain-2018,19
+bpd,bsl-23,mcmain-2018,19
+impulsivity,barratt-impulsiveness-scale,mcmain-2018,19
+depression,bdi-2,mcmain-2018,19
+anger,state-trait-anger-expression-inventory,mcmain-2018,19
+general psychopathology,scl-90-r,mcmain-2018,19
+interpersonal functioning,inventory-of-interpersonal-problems-2,mcmain-2018,19
+social functioning,social-adjustment-scale-self-report,mcmain-2018,19
+quality of life,eq-5d-5-l,mcmain-2018,19
+quality of life,eq-5d-5-l,mcmain-2018,19
+alcohol problems,audit,mcmain-2018,19
+drug abuse,drug-abuse-screening-test,mcmain-2018,19
+nssi,inventory-of-statements-about-self-injury,mcmain-2018,19
+suicide ideation,beck-scale-for-suicidal-ideation,mcmain-2018,19
+ptsd,pcl-5,mcmain-2018,19
+emotion dysregulation,ders,mcmain-2018,19
+mindfulness,kentucky-inventory-of-mindfulness-skills,mcmain-2018,19
+coping strategies,dbt-wccl,mcmain-2018,19
+bpd,scid-2,pistorello-2012,20
+suicide attempt,sasii,pistorello-2012,20
+nssi,sasii,pistorello-2012,20
+depression,bdi-2,pistorello-2012,20
+suicide attempt,sbq-23,pistorello-2012,20
+nssi,sbq-23,pistorello-2012,20
+social adjustment,social-adjustment-scale-self-report,pistorello-2012,20
+global functioning,gaf,pistorello-2012,20
+depression,bdi,simpson-2004,21
+anxiety,state-trait-anxiety-inventory,simpson-2004,21
+aggression,oas-m,simpson-2004,21
+dissociation,dissociative-experiences-scale,simpson-2004,21
+anger,state-trait-anger-expression-inventory,simpson-2004,21
+global functioning,gaf,simpson-2004,21
+bpd,pdq-4,vandenbosch-2002,22
+bpd,scid-2,vandenbosch-2002,22
+substance problems,european-version-of-the-addiction-severity-index,vandenbosch-2002,22
+parasuicide,borderline-personality-disorder-severity-index,verheul-2003,23
+nssi,borderline-personality-disorder-severity-index,verheul-2003,23
+impulsivity,borderline-personality-disorder-severity-index,verheul-2003,23
+parasuicide,lifetime-parasuicide-count,verheul-2003,23
