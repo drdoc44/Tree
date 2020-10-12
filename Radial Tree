@@ -13,7 +13,7 @@ useRtree <- as.Node(useRdf, pathDelimiter = "|")
 
 #plot with networkD3
 useRtreeList <- ToListExplicit(useRtree, unname = TRUE)
-radialNetwork(useRtreeList,height = 1600, width = 1600,fontSize = 11,
+radialNetwork(useRtreeList,height = NULL, width = NULL,fontSize = 10,
               fontFamily = "serif", linkColour = "#ccc", nodeColour = "#fff",
               nodeStroke = "steelblue", textColour = "#111", opacity = 0.9,
               margin = NULL)
