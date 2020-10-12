@@ -1,0 +1,34 @@
+library(r2d3)
+library(yaml)
+library(treemap)
+library(network3D)
+library(data.tree)
+
+
+useRdf <- read.csv("dat.csv", stringsAsFactors = FALSE)
+#define the hierarchy (Session/Room/Speaker)
+useRdf$pathString <- paste("useR", useRdf$outcome, useRdf$measure, useRdf$study.name, sep="|")
+#convert to Node
+useRtree <- as.Node(useRdf, pathDelimiter = "|")
+
+#plot with networkD3
+useRtreeList <- ToListExplicit(useRtree, unname = TRUE)
+radialNetwork(useRtreeList,height = 1600, width = 1600,fontSize = 11,
+              fontFamily = "serif", linkColour = "#ccc", nodeColour = "#fff",
+              nodeStroke = "steelblue", textColour = "#111", opacity = 0.9,
+              margin = NULL)
+
+
+#Usage
+#radialNetwork(List, height = NULL, width = NULL, fontSize = 10,
+#              fontFamily = "serif", linkColour = "#ccc", nodeColour = "#fff",
+#              nodeStroke = "steelblue", textColour = "#111", opacity = 0.9,
+#              margin = NULL)
+#Arguments
+#List a hierarchical list object with a root node and children.
+#height height for the network graph’s frame area in pixels (if NULL then height is automatically determined based on context)
+#width numeric width for the network graph’s frame area in pixels (if NULL then width is automatically determined based on context)
+#fontSize numeric font size in pixels for the node text labels.
+#fontFamily font family for the node text labels.
+#linkColour character string specifying the colour you want the link lines to be. Multiple
+#formats supported (e.g. hexadecimal).
