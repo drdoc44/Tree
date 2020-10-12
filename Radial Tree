@@ -1,7 +1,7 @@
 library(r2d3)
 library(yaml)
 library(treemap)
-library(network3D)
+library(networkD3)
 library(data.tree)
 
 
